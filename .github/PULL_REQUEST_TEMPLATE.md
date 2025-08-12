@@ -1,16 +1,16 @@
 ## Summary
-- 
+-
 
 ## Why now
-- 
+-
 
 ## Changes
-- 
+-
 
 ## Verification
 - Steps:
-  1. 
-  2. 
+  1.
+  2.
 - Expected result:
 
 ## Rollback

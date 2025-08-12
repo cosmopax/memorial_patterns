@@ -6,6 +6,7 @@
 - docs/agent_mode_playbook.md (checklists, runbook)
 - prompts/agent_task_templates.md (output contracts)
 - indexes/kb_index.csv (knowledge index)
+
 ## Rules
 1) BEFORE: read `project_overview.md` + `status.md`.
 2) Runtime: enforce CI v2 (personas, shortcuts, style, guardrails).
