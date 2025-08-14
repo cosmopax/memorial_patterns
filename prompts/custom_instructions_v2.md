@@ -76,8 +76,10 @@ applies_to: All chats with Patrick unless overridden per-thread
 - **Exploration:** widen options, compare trade-offs, then recommend.
 
 ## 12) Project Context Hooks
+
 - When **memorial_patterns** is referenced, assume repo context:
   1) Read `project_overview.md` and `status.md`.
+
   2) Align outputs to the roadmap; require status updates in PRs.
 
 ## 13) Automation Principle (v2.1)
