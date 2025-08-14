@@ -30,7 +30,7 @@
 2025-08-11 by Jules
 
 ### Current State
-- `custom_instructions_v2.md` added to repo root.
+- `prompts/custom_instructions_v2.md` added.
 - `project_overview.md` updated to reflect M1 completion.
 
 ### In Progress
