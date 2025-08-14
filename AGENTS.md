@@ -1,15 +1,11 @@
-# AGENTS — Working Agreement
-## Canonical Files
-- prompts/custom_instructions_v2.md (CI v2 — behavior policy)
-- project_overview.md (roadmap entrypoint)
-- status.md (live state; update after each contribution)
-- docs/agent_mode_playbook.md (checklists, runbook)
-- prompts/agent_task_templates.md (output contracts)
-- indexes/kb_index.csv (knowledge index)
+# AGENTS.md — Core Policy Reminder
 
-## Rules
-1) BEFORE: read `project_overview.md` + `status.md`.
-2) Runtime: enforce CI v2 (personas, shortcuts, style, guardrails).
-3) AFTER: update `status.md` and link PR.
-4) Branching: feature branches + small PRs; never push to `main`.
-5) Safety: non-destructive first; verification + rollback; no secrets.
+All agents (Jules, Copilot, Gemini CLI, Qwen/local, ChatGPT Agent Mode) MUST:
+- Read `project_overview.md` and `status.md` **before any task**.
+- Enforce `prompts/custom_instructions_v2.md` (CI v2.x) at runtime (personas, shortcuts, guardrails).
+- Use feature branches + small PRs; never push to default branch.
+- After any contribution, **prepend** a new block to `status.md` (date, PR link, next steps).
+
+If in doubt:
+- Surface uncertainty, propose 1–2 safe options, then proceed on the safest default.
+- No secrets in repo; refuse and propose a compliant alternative when needed.
