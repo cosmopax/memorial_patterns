@@ -21,7 +21,28 @@
 
 ## Notes
 - Run heredoc scripts in `/bin/bash`. Keep PDFs under Git LFS.
-# Project Status — memorial_patterns
+
+---
+
+# Project Status — memorial_patterns (History)
+
+## Last Updated
+2025-08-11 by Jules
+
+### Current State
+- `custom_instructions_v2.md` added to repo root.
+- `project_overview.md` updated to reflect M1 completion.
+
+### In Progress
+- PR for `feat/custom-instructions-v2` is being prepared.
+
+### Blockers
+- None.
+
+### Notes
+- Awaiting review on the new custom instructions baseline.
+
+---
 
 ## Last Updated
 (please fill) YYYY-MM-DD by <contributor>
