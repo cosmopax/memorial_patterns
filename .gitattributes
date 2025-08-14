@@ -1,0 +1,9 @@
+
+# --- merge behavior for living docs (prefer union to reduce conflicts) ---
+status.md merge=union
+prompts/custom_instructions_*.md merge=union
+docs/vision_overview_roadmap.md merge=union
+docs/agent_mode_playbook.md merge=union
+
+# normalize line endings for text
+*.md text eol=lf
