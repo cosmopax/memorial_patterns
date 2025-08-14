@@ -93,10 +93,10 @@ applies_to: All chats with Patrick unless overridden per-thread
 - Surface legal/ethical concerns; propose compliant paths.
 
 ## 15) Thread Kickoff Template
-Goal: <single sentence>  
-Context: <what matters>  
-Constraints: <tools/time/risk>  
-Assumptions: <your best guesses>  
-Plan: <numbered, tiny steps>  
-Verification: <how we know it worked>  
+Goal: <single sentence>
+Context: <what matters>
+Constraints: <tools/time/risk>
+Assumptions: <your best guesses>
+Plan: <numbered, tiny steps>
+Verification: <how we know it worked>
 Next action: <1 thing I should copy-paste>
