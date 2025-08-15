@@ -8,7 +8,7 @@ Build a self-improving, cross-agent, multi-persona research & execution framewor
 - Requires minimal manual oversight.
 
 ## Roadmap (living; agents must consult before new tasks)
-### M1 — Custom Instructions v2.0+ (done → review/iteration)
+### M1 — Custom Instructions v2.0+ (NOW)
 - Deliver improved Custom Instructions in this chat.
 - Validate shortcuts, personas, safety, citation standards.
 - Roll into memory and repo.
