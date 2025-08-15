@@ -5,7 +5,8 @@ prompts/agent_task_templates.md,Agent Task Templates,templates|PR|contracts,2025
 docs/vision_overview_roadmap.md,Vision/Overview/Roadmap,vision|roadmap|strategy,2025-08-12
 docs/agent_mode_playbook.md,Agent Mode Playbook,agents|checklists|hygiene,2025-08-12
 deep_research_run_01_custom_instructions.md,Deep Research Run 01 Brief,deep-research|instructions,2025-08-11
-deep_research_outputs/ci_v2_support.md,CI v2 Support (Sections B–D),digest|integration|agent-template,2025-08-12
+deep_research_outputs/ci_v2_support.md,CI v2 Support (Sections B–D),digest|integration|agent-template,2025-08-15
 project_overview.md,Project Overview,overview|roadmap,2025-08-12
 status.md,Project Status,status,2025-08-12
 helpful_commands.md,Helpful Commands,cli|git|diagnostics,2025-08-12
+ISSUE_11_AGENT_TASK.md,Agent Task Template - Knowledge Framework,agent-task|framework|indexing,2025-08-15
