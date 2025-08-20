@@ -2,11 +2,14 @@ path,title,tags,last_updated
 prompts/custom_instructions_v2.md,Custom Instructions v2,policy|persona|guardrails,2025-08-12
 prompts/agent_mode_superprompt.md,Agent Mode Superprompt,agent|runbook|orchestration,2025-08-12
 prompts/agent_task_templates.md,Agent Task Templates,templates|PR|contracts,2025-08-12
-docs/vision_overview_roadmap.md,Vision/Overview/Roadmap,vision|roadmap|strategy,2025-08-12
+docs/vision_overview_roadmap.md,Vision/Overview/Roadmap,vision|roadmap|strategy,2025-08-15
 docs/agent_mode_playbook.md,Agent Mode Playbook,agents|checklists|hygiene,2025-08-12
 deep_research_run_01_custom_instructions.md,Deep Research Run 01 Brief,deep-research|instructions,2025-08-11
 deep_research_outputs/ci_v2_support.md,CI v2 Support (Sections B–D),digest|integration|agent-template,2025-08-15
+deep_research_outputs/literature_maps/README.md,Literature Maps Directory,documentation|structure|synthesis,2025-08-15
+indexes/sources.csv,Research Sources Index,index|sources|bibliography,2025-08-15
+scripts/validate_repo.sh,Repository Health Validator,validation|scripts|health-check,2025-08-15
 project_overview.md,Project Overview,overview|roadmap,2025-08-12
-status.md,Project Status,status,2025-08-12
+status.md,Project Status,status,2025-08-15
 helpful_commands.md,Helpful Commands,cli|git|diagnostics,2025-08-12
 ISSUE_11_AGENT_TASK.md,Agent Task Template - Knowledge Framework,agent-task|framework|indexing,2025-08-15
