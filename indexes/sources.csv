@@ -1,0 +1,4 @@
+title,upstream_url,doi,topics,recency,notes
+# Sources index for memorial_patterns research literature
+# Format: title,upstream_url,doi,topics,recency,notes
+# This file will be populated as research sources are added to the knowledge base

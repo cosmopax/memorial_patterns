@@ -15,3 +15,5 @@
 ## Notes
 - All contributors (humans and agents) must update this file after making changes.
 - Agents must consult `project_overview.md` BEFORE starting work.
+
+_Reference_: `prompts/custom_instructions_v2.md`.
