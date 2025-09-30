@@ -1,23 +1,29 @@
 # Project Status — memorial_patterns
 
 ## Last Updated
-2025-08-15 by Agent (@Copilot)
+2025-09-30 by Copilot Agent
 
 ## Executive Summary
-- Goal: Code review, issue resolution, and repository improvements completed
-- Current branch: `copilot/fix-b828fcc8-06fe-4004-98bd-499143576269`
-- Status: Repository structure validated and improved
+- Goal: Verify and approve AGENTS.md file presence in repository
+- Current PR: #16 `copilot/fix-5ed0fed8-4b2d-47be-a747-d14188665d51`
+- Status: AGENTS.md verified as properly configured in base branch
 
 ## Current State
+- ✅ **AGENTS.md** verified and approved: Present in base branch with proper content
 - ✅ CI v2.1 present: `prompts/custom_instructions_v2.md`
 - ✅ Agent docs present: `docs/vision_overview_roadmap.md`, `docs/agent_mode_playbook.md`
 - ✅ Prompts present: `prompts/agent_mode_superprompt.md`, `prompts/agent_task_templates.md`
 - ✅ Deep research outputs framework: `deep_research_outputs/ci_v2_support.md`
 - ✅ Knowledge index validated: `indexes/kb_index.csv` (all 13 files exist)
-- ✅ Missing directory structure created: `deep_research_outputs/literature_maps/`
-- ✅ Missing files created: `indexes/sources.csv`
-- ✅ Fixed content duplication in `docs/vision_overview_roadmap.md`
 - ✅ Repository architecture aligned with actual file structure
+
+## AGENTS.md Verification Details
+The AGENTS.md file is correctly configured with:
+- Core policy requirements for all agents (Jules, Copilot, Gemini CLI, Qwen/local, ChatGPT Agent Mode)
+- Mandatory behaviors: Read project_overview.md and status.md before tasks
+- Enforcement of prompts/custom_instructions_v2.md (CI v2.x) at runtime
+- Feature branch workflow and status.md update requirements
+- Safety guidelines for handling uncertainty and secrets
 
 ## Next
 1) Continue with automated literature synthesis tasks
@@ -26,9 +32,10 @@
 4) Implement quality gates and validation scripts
 
 ## Notes
-- Repository now has clean, validated structure with no missing references
+- AGENTS.md file successfully verified - already present in base branch (commit c191373)
+- PR #8 (old 'feat: add AGENTS.md') has merge conflicts and should be closed
+- Repository has clean, validated structure with no missing references
 - All architectural files exist and are properly indexed
-- Content duplication issues resolved
 - Knowledge base ready for agent automation
 
 ---
