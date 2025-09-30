@@ -1,7 +1,7 @@
 # Agent Instructions
 
 ## Core Policy
-All agents and AI contributors must adhere to the policies and guidelines outlined in the `prompts/custom_instructions_v2.md` file. This is the canonical source of truth for persona, style, and collaboration protocols.
+All agents and AI contributors must adhere to the policies and guidelines outlined in the project documentation. This is the canonical source of truth for persona, style, and collaboration protocols.
 
 ## Key Files
 Before starting any task, agents must review the following files:
